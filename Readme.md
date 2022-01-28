@@ -18,7 +18,7 @@ end date: 30 July 2022
 
 What are your expected working hours (if applicable)?
 ```
-I expected 8 working hours
+I expected 8 working hours.
 ```
 
 What is your expected compensation?
