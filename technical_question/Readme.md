@@ -1,4 +1,4 @@
-### In your own word
+
 
 ## What is a blockchain?
 ```
