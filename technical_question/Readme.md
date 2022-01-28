@@ -1,9 +1,9 @@
 
 ## What is a blockchain?
-```
+
 In my own word, a blockchain is a chain of the block that hard to change the infomation. First I will start with a block, The block contain with block's hash, data, hash of previous block. Block's hash is generated from data and hash of previous block.
 Since we assign block's hash with data and previous block's hash encryption. If we change the data in one of the block in the chain, It will make the following blocks invalid. All of I have mentioned above make the blockchain is very secure.
-```
+
 Explain in programing view.
 ```Python
 class PrepHashObject():
