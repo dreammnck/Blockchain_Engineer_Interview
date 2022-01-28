@@ -6,14 +6,14 @@ Since we assign block's hash with data and previous block's hash encryption. If 
 
 Explain in programing view.
 ```Python
-class PrepHashObject():
+class PrepHashObject:
     def __init__(self, data, prev_hash_block):
         self.merge = tuple({'data': data, 'prev_hash_block':prev_hash_block })
 
     def get_object(self):
         return self.merge
 
-class Block():
+class Block:
     def __init__(self, data, prev_hash_block=''):
         self.data = data
         self.prev_hash_block = prev_hash_block
@@ -22,7 +22,7 @@ class Block():
     def generate_hash(self, data, prev_hash_block):
         return str(hash(PrepHashObject(data, prev_hash_block).get_object()))
     
-class BlockChain():
+class BlockChain:
     def __init__(self):
         self.chain = [Block('data')]
     
