@@ -42,6 +42,7 @@ def solve(word_list, target):
     
 
 if __name__ == '__main__':
+
     print(solve(['ab', 'bc','cd'], 'cdab'))
     print(solve(['ab', 'bc','cd'], 'abcd')) 
     print(solve(['ab', 'bc','cd'], 'abab'))
