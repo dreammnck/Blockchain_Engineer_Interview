@@ -44,5 +44,5 @@ contract easily.
 
 ## Why Alpha?
 
-Since I have watched K' Tascha interview on bitcast channel, I'm very impressed by  K' Tascha viewpoint. And Alpha always adapt the product following the customer need and Alpha uses decomposing and composing strategy to handle with complex problems. Alpha not only focused on DeFi platform but also researching and innovating in a blockchain.
+Since I have watched K' Tascha interview on bitcast channel, I'm very impressed by  K' Tascha viewpoint. And Alpha always adapts the product following the customer need and Alpha uses decomposing and composing strategy to handle with complex problems. Alpha not only focused on DeFi platform but also researching and innovating in a blockchain.
 Moreover, Alpha has many interested products that different from other DeFi platforms. All of I have mentioned is a reason why I want to work with Alpha.
