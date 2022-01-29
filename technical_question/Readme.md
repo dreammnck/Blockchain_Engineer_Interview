@@ -35,9 +35,14 @@ class BlockChain:
 ```
 
 ## What is a smart contract?
-```
-```
+
+A smart contract is a program which is stored in a blockchain. The smart contract work same as if then statement. 
+For example, If a condtion is true, then action1 occurs else action2 occures. If we compare with the real world, 
+we don't have to trust third-party because the smart contract executes following the actual contract. 
+Since the smart contract is stored in the blockchain, it hard to be changed. Therefore, no one can change the actual 
+contract easily.
 
 ## Why Alpha?
-```
-```
+
+Since I have watched K' Tascha interview on bitcast channel, I'm very impressed by  K' Tascha viewpoint. And Alpha always adapt the product following the customer need and Alpha uses decomposing and composing strategy to handle with complex problems. Alpha not only focused on DeFi platform but also researching and innovating in a blockchain.
+Moreover, Alpha has many interested products that different from other DeFi platforms. All of I have mentioned is a reason why I want to work with Alpha.
